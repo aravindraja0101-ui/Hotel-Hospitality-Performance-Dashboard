@@ -1,0 +1,9 @@
+Channel_ID,Booking_Channel,Channel_Category
+CH01,Direct,Offline
+CH02,Website,Online
+CH03,Booking.com,OTA
+CH04,MakeMyTrip,OTA
+CH05,Goibibo,OTA
+CH06,Agoda,OTA
+CH07,Corporate,Corporate
+CH08,Travel Agent,Agent

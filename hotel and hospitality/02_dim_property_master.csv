@@ -1,0 +1,9 @@
+Property_ID,Property_Name,City,State,Hotel_Category,Total_Rooms
+P001,Grand Palace Chennai,Chennai,Tamil Nadu,Luxury,180
+P002,Royal Residency Coimbatore,Coimbatore,Tamil Nadu,Premium,120
+P003,Lake View Bengaluru,Bengaluru,Karnataka,Luxury,160
+P004,City Central Hyderabad,Hyderabad,Telangana,Premium,140
+P005,Marina Bay Kochi,Kochi,Kerala,Luxury,110
+P006,Heritage Mysuru,Mysuru,Karnataka,Heritage,95
+P007,Royal Orchid Madurai,Madurai,Tamil Nadu,Premium,100
+P008,Metro Inn Pune,Pune,Maharashtra,Budget,85

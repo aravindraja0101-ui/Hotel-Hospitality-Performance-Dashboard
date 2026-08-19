@@ -1,0 +1,6 @@
+Room_Type_ID,Room_Type,Max_Occupancy,Base_Rate
+RT01,Standard,2,1800
+RT02,Deluxe,3,2800
+RT03,Premium,3,3800
+RT04,Suite,4,5500
+RT05,Executive,2,4500
